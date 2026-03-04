@@ -33,7 +33,7 @@ I work with SQL, Python, Power BI, Excel, and Machine Learning to analyze datase
 - Visualized clusters using scatter plots  
 - **Tech:** Python, K-Means, Pandas, Matplotlib
 
-👉 Repository: *(https://github.com/sainipulkit16/CC_Customer_Segmentation_System)*
+👉 Repository: *(https://github.com/sainipulkit16/Customer-Segmentation-KMeans)*
 
 ---
 
