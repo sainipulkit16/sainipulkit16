@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Pulkit Saini  
+### Data Analyst | SQL • Power BI • Python • Excel | Dashboards & EDA
 
-<!--
-**sainipulkit16/sainipulkit16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst passionate about turning raw data into meaningful insights.  
+I work with SQL, Python, Power BI, Excel, and Machine Learning to analyze datasets, build dashboards, and solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Skills & Tools
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Analytics:** Data Cleaning, EDA, Data Modeling, Machine Learning
+- **BI Tools:** Power BI (DAX, measures, dashboards)
+- **Databases:** SQL (Joins, Aggregations, Window Functions)
+- **Other:** Excel (Advanced), Git, Jupyter Notebook
+
+---
+
+## 📈 Featured Projects
+
+### 🔹 **1. Sales Performance Dashboard – ₹769M Sales Analysis (Power BI)**
+- Analyzed 4K+ transactions  
+- Built DAX measures & data models  
+- Automated reporting (50% faster decision-making)  
+- **Tech:** Power BI, DAX, Data Modeling
+
+👉 Repository: *(https://github.com/sainipulkit16/Sales-Performance-Dashboard-PowerBI)*
+
+---
+
+### 🔹 **2. Customer Segmentation (K-Means) – 95% Accuracy**
+- Segmented 1K+ customers  
+- Improved targeting precision by 25%  
+- Visualized clusters using scatter plots  
+- **Tech:** Python, K-Means, Pandas, Matplotlib
+
+👉 Repository: *(https://github.com/sainipulkit16/CC_Customer_Segmentation_System)*
+
+---
+
+### 🔹 **3. Global Terrorism Dataset – EDA (180K+ Records)**
+- Extracted attack patterns & high-risk regions  
+- Created visualizations with Seaborn & Matplotlib  
+- **Tech:** Python, EDA, Pandas, Seaborn
+
+👉 Repository: *(https://github.com/sainipulkit16/LGMVIP-DataScience-Task-02)*
+
+---
+
+## 📫 Contact  
+📩 **Email:** sainipulkit16@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/sainipulkit16  
