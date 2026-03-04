@@ -42,7 +42,7 @@ I work with SQL, Python, Power BI, Excel, and Machine Learning to analyze datase
 - Created visualizations with Seaborn & Matplotlib  
 - **Tech:** Python, EDA, Pandas, Seaborn
 
-👉 Repository: *(https://github.com/sainipulkit16/LGMVIP-DataScience-Task-02)*
+👉 Repository: *(https://github.com/sainipulkit16/Global-Terrorism-EDA-Project)*
 
 ---
 
